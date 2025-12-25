@@ -1,0 +1,5 @@
+E:\anaconda\envs\yolv5\python.exe E:/studycode/vit/vit_from_scratch.py
+输入形状: torch.Size([2, 3, 224, 224])
+输出形状: torch.Size([2, 10])
+
+模型总参数量: 5,526,346

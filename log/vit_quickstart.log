@@ -1,0 +1,15 @@
+E:\anaconda\envs\yolv5\python.exe E:/studycode/vit/vit_quickstart.py
+正在加载ViT模型...
+E:\anaconda\envs\yolv5\lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\86107\.cache\huggingface\hub\models--google--vit-base-patch16-224. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+正在进行推理...
+预测类别ID: 285
+预测类别: Egyptian cat
+
+Top-5 预测结果:
+1. Egyptian cat: 0.9374
+2. tabby, tabby cat: 0.0384
+3. tiger cat: 0.0144
+4. lynx, catamount: 0.0033
+5. Siamese cat, Siamese: 0.0007
